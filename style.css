@@ -76,6 +76,13 @@ h1 {
   right: 2rem;
 }
 
+.name {
+  font-size: 1.4rem;
+  position: absolute;
+  top: 40px;
+  right: 2rem;
+}
+
 .again {
   position: absolute;
   top: 2rem;
@@ -120,5 +127,22 @@ h1 {
   position: absolute;
   top: 66%;
   left: 46%;
+}
+
+.agn {
+  position: absolute;
+  top: 150%;
+  left: 5%;
+}
+
+.skr {
+  position: absolute;
+  left: 5%;
+  top: 62%;
+}
+
+.hsk {
+  position: absolute;
+  left: 5%;
 }
 /*Michal Dostal 2023*/
